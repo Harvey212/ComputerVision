@@ -19,5 +19,8 @@ python vo.py --input ./frames/ --camera_parameters camera_parameters.npy<br />
 ![alt text](screenshot1.png)
 ![alt text](screenshot2.png)
 
+Camera Clibration:<br />
+https://youtu.be/FuD6_dZcgrg
+
 Youtube連結:<br />
 https://www.youtube.com/watch?v=WJ-Dt7BL2QM
