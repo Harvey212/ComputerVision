@@ -1,4 +1,6 @@
 # README
+train path:
+https://drive.google.com/drive/folders/12YtZvvTkubqrpwOO6psUCAvZrRGiUWft?usp=sharing
 
 ## 所需環境為
 Python == 3.8.10 
